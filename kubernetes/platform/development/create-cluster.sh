@@ -2,7 +2,7 @@
 
 echo "\n📦 Initializing Kubernetes cluster...\n"
 
-minikube start --cpus 2 --memory 3g --driver docker --profile polar
+minikube start --cpus 2 --memory 4g --driver docker --profile polar
 
 echo "\n🔌 Enabling NGINX Ingress Controller...\n"
 
