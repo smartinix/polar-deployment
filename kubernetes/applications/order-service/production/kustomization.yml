@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: order-service
   newName: ghcr.io/smartinix/order-service
-  newTag: 1004b7f413ec7e8a7340b4cdd16910d759be0505
+  newTag: 8ed67842a1e637f72bdb9057c4b3e43571caf1ea
 
 replicas:
 - count: 1
