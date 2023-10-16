@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: dispatcher-service
   newName: ghcr.io/smartinix/dispatcher-service
-  newTag: ef75111af50490597d49cd4f4d3cdc83883a7788
+  newTag: 1ebe98b897d5d96fa59cdd9f2b6b84c1824f44ba
 
 replicas:
 - count: 1
