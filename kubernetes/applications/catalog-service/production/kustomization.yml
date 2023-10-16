@@ -18,7 +18,7 @@ configMapGenerator:
 images:
 - name: catalog-service
   newName: ghcr.io/smartinix/catalog-service
-  newTag: 238dbd4e7cb802914a510e330775e1e3e5422a26
+  newTag: 28026ae2fc92b0f102db05b1d02393b3516c0773
 
 replicas:
 - count: 2
