@@ -19,7 +19,7 @@ configMapGenerator:
 images:
 - name: edge-service
   newName: ghcr.io/smartinix/edge-service
-  newTag: 692e0bd14aedae3bc2b0bf95a0bd3aa6a82aa4cd
+  newTag: e6c0bcab9b3fc34714f2615f35fefd2efd57dcfd
 
 replicas:
 - count: 1
